@@ -10,12 +10,11 @@ public class URI_1061 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		LocalDateTime entrada, saida;
-		@SuppressWarnings("unused")
-		String aux, strEntrada, strSaida;
+		String strEntrada, strSaida;
 		DateTimeFormatter formato = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss");
 		int dia;
 		
-		aux = input.next();
+		input.next();
 		dia = input.nextInt();
 		if(dia < 10)
 			strEntrada = "0" + dia + "/04/2021 ";
@@ -29,7 +28,7 @@ public class URI_1061 {
 		
 		entrada = LocalDateTime.parse(strEntrada, formato);
 		
-		aux = input.next();
+		input.next();
 		dia = input.nextInt();
 		if(dia < 10)
 			strSaida = "0" + dia + "/04/2021 ";
