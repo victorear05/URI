@@ -3,5 +3,5 @@ Resolução em Java dos exercícios dos diversos módulos do [URI Online Judge](
 Ainda estou resolvendo, nem todos estão feitos ainda, porém todos aqui presente foram aceitos.  
 
 <p align="center">
-  <img width="460" height="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpython.org.br%2F&psig=AOvVaw3AU6AWx3NXHKL3NUJH017F&ust=1629657792161000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNixhsHiwvICFQAAAAAdAAAAABAJ">
+  <img width="206" height="180" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpython.org.br%2Ftheme%2Fimg%2Fsite-logo.svg&imgrefurl=https%3A%2F%2Fpython.org.br%2F&tbnid=9fpps9heKSdsMM&vet=12ahUKEwiCit2_4sLyAhU4BrkGHe5dAWwQMygCegUIARDPAQ..i&docid=l4uursrE5fcXFM&w=800&h=700&q=python&ved=2ahUKEwiCit2_4sLyAhU4BrkGHe5dAWwQMygCegUIARDPAQ">
 </p>
