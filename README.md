@@ -1,3 +1,3 @@
-# URI
-Resolução em Java dos exercícios dos diversos módulos do [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt)  
+# Beecrowd
+Resolução em Java dos exercícios dos diversos módulos do [Beecrowd](https://beecrowd.com)  
 Ainda estou resolvendo, nem todos estão feitos ainda, porém todos aqui presente foram aceitos.  
